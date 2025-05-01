@@ -7456,7 +7456,7 @@
 		)
 		(uuid "1b76a2fe-18c6-4e53-86e3-884002f69b6b")
 	)
-	(label "23T"
+	(label "24T"
 		(at 134.62 69.85 0)
 		(effects
 			(font
@@ -8226,7 +8226,7 @@
 		)
 		(uuid "9bbff058-9198-463d-8df2-638f4abe8e73")
 	)
-	(label "1T"
+	(label "24T"
 		(at 64.77 20.32 0)
 		(effects
 			(font
@@ -8516,7 +8516,7 @@
 		)
 		(uuid "c97864b1-ed79-4cae-a5b7-4f6e7e40584e")
 	)
-	(label "24T"
+	(label "23T"
 		(at 133.35 72.39 0)
 		(effects
 			(font
@@ -8626,7 +8626,7 @@
 		)
 		(uuid "d4bc10fb-9429-45e2-8475-491d3d23f5f1")
 	)
-	(label "24T"
+	(label "23T"
 		(at 133.35 62.23 0)
 		(effects
 			(font
@@ -8696,7 +8696,7 @@
 		)
 		(uuid "df2f183c-b38a-4e04-9ae1-8671456d5f7b")
 	)
-	(label "23T"
+	(label "24T"
 		(at 134.62 59.69 0)
 		(effects
 			(font
